@@ -12,3 +12,5 @@ torch1.9 + cuda11
 # 训练
 下载VOC2007数据集放到根目录下，运行voc_annotation.py，生成2007_train.txt
 运行train.py
+
+借鉴了B站博主的视频，主要是阅读源码使用。
